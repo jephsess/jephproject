@@ -6,3 +6,8 @@ export * from './client.repository';
 export * from './commandecredit.repository';
 export * from './lignecommandes.repository';
 export * from './magasin.repository';
+export * from './avenue.repository';
+export * from './quartier.repository';
+export * from './commune.repository';
+export * from './province.repository';
+export * from './pays.repository';

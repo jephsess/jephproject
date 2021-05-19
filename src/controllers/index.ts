@@ -7,3 +7,8 @@ export * from './client.controller';
 export * from './commandecredit.controller';
 export * from './lignecommandes.controller';
 export * from './magasin.controller';
+export * from './avenue.controller';
+export * from './quartier.controller';
+export * from './commune.controller';
+export * from './province.controller';
+export * from './pays.controller';

@@ -22,6 +22,30 @@ export class Magasin extends Entity {
   description: string;
 
   @property({
+    type: 'string',
+    required: true,
+  })
+  telephone: string;
+
+  @property({
+    type: 'string',
+    required: true,
+  })
+  idnationale: string;
+
+  @property({
+    type: 'string',
+    required: true,
+  })
+  rccm: string;
+
+  @property({
+    type: 'string',
+    required: true,
+  })
+  impot: string;
+
+  @property({
     type: 'number',
     required: true,
   })

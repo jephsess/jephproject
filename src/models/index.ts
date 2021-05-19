@@ -6,3 +6,8 @@ export * from './client.model';
 export * from './commandecredit.model';
 export * from './lignecommandes.model';
 export * from './magasin.model';
+export * from './avenue.model';
+export * from './quartier.model';
+export * from './commune.model';
+export * from './province.model';
+export * from './pays.model';
